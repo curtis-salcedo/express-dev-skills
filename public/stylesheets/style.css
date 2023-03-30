@@ -1,8 +1,19 @@
 body {
-  padding: 50px;
+  padding: 20vmin;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(5, 85, 5);
+  text-align: left;
+}
+
+body {
+  align-self: center;
 }
 
 a {
   color: #00B7FF;
+}
+
+footer {
+  align-text: center;
+  justify-content: end;
 }
